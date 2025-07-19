@@ -11,4 +11,4 @@ Always comply with your local laws, ethical hacking guidelines, and responsible 
 
 ❗This tool is intended to help students, learners, and ethical hackers understand how directory enumeration works in penetration testing.
 
-![WhatsApp Image 2025-07-19 at 2 11 28 AM](https://github.com/user-attachments/assets/6640f43f-5e7e-4f45-96da-621fe2fca5c4)
+![network](https://github.com/user-attachments/assets/d05c3e9c-b4c8-4446-a727-3539f62bb988)
